@@ -1,40 +1,14 @@
+# 项目
+
+LowCode 低代码平台项目上线地址(感兴趣私聊向我获取账号密码)：
+http://www.siyukenny.top:3011/cms-manage/
+
 ---
-pageClass: projects-page
----
 
-# Work
+github 项目代码：https://github.com/siyukenny/LowCode-
 
-Here are some works of mine :books:
+# **获奖及荣誉证书**
 
-## Projects
+![1.jpg](https://s2.loli.net/2022/11/12/Q7yFRdmKVbLMWtC.jpg)
 
-<ProjectCard image="/projects/1.png">
-
-  Harry P., Hermione G., *et al*
-  
-  **The Making of Harry Potter's Wand**
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
-
-</ProjectCard>
-
-## Publications
-
-<ProjectCard>
-
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
-
-</ProjectCard>
-
-<style lang="stylus">
-
-.projects-page
-  background-color #fafbfc
-
-</style>
+![江苏大学计算机学院司宇生活照.jpg](https://s2.loli.net/2022/11/12/jfgd3YEL7mtWTuv.jpg)

@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Yu Si",
+    title: "Yu Si, Kenny (司宇)",
     description: "The description of the site.",
     head: [
         ["link", { rel: "icon", href: `/logo.png` }]
@@ -8,16 +8,17 @@ module.exports = {
     dest: "./dist",
 
     themeConfig: {
-        search: false,
+        search: true,
         nav: [
-            { text: "Home", link: "/" },
-            { text: "About", link: "/about/" },
-            { text: "Projects", link: "/projects/" },
-            { text: "Guide", link: "/guide/" },
-            { text: "GitHub", link: "https://github.com/SIYUyu" }
+            { text: "主页", link: "/" },
+            { text: "个人事迹", link: "/about/" },
+            { text: "获奖证书", link: "/projects/" },
+            { text: "编程导航", link: "/guide/" },
+            { text: "GitHub", link: "https://siyukenny.github.io/home/" }
         ],
         sidebar: {
-            '/guide/': genSidebarConfig('Guide')
+            '/guide/': genSidebarConfig('Guide'),
+            '/projects/': genSidebarConfig('Projects')
         },
         lastUpdated: 'Last Updated'
     },
@@ -37,9 +38,7 @@ function genSidebarConfig(title) {
         collapsable: false,
         children: [
             '',
-            'getting-started',
-            'customize',
-            'advanced',
+            'README'
         ]
     }]
 }
